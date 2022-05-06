@@ -6,4 +6,3 @@ function reverseNumber(number){
     return +arr.reverse().join('');
 }
 console.log(reverseNumber(592075));
-console.log(3333);
